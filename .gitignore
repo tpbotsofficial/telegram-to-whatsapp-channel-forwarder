@@ -1,0 +1,13 @@
+# Ignore common system and editor files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Configuration files that may contain sensitive data
+.env
+config.ini
